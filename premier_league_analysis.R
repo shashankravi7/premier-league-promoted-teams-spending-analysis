@@ -373,9 +373,7 @@ p3 <- ggplot(max_spenders_by_season, aes(x = season, y = net_spend_millions)) +
 
 print(p3)
 
-# ==============================================================================
-# PART 8: KEY FINDINGS AND CONCLUSIONS
-# ==============================================================================
+#Key Findings
 
 print("\n=== KEY FINDINGS (2007-2016) ===")
 print(paste("Analysis period: 2007-2016"))
