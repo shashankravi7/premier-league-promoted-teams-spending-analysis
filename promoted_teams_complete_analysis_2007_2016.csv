@@ -1,0 +1,49 @@
+team,season,position,relegated,survival_status,team_clean,total_spent,players_bought,total_received,players_sold,data_source,net_spend,net_spend_millions
+Arsenal,2007,4,FALSE,Survived,arsenal,500000,1,0,0,Promotion Summer (-1 year),500000,0.5
+Aston Villa,2007,11,FALSE,Survived,astonvilla,13200000,1,0,0,Current Season,13200000,13.2
+Birmingham,2008,19,TRUE,Relegated,birmingham,0,0,0,0,No Data,0,0
+Birmingham,2010,9,FALSE,Survived,birmingham,0,0,0,0,No Data,0,0
+Blackburn,2007,10,FALSE,Survived,blackburn,0,0,0,0,No Data,0,0
+Blackpool,2011,19,TRUE,Relegated,blackpool,1400000,1,0,0,Current Season,1400000,1.4
+Bolton,2007,7,FALSE,Survived,bolton,0,0,0,0,No Data,0,0
+Bournemouth,2016,16,FALSE,Survived,bournemouth,21300000,2,0,0,Current Season,21300000,21.3
+Burnley,2010,18,TRUE,Relegated,burnley,0,0,0,0,No Data,0,0
+Burnley,2015,19,TRUE,Relegated,burnley,2560000,1,8650000,1,Current Season,-6090000,-6.09
+Cardiff,2014,20,TRUE,Relegated,cardiff,8700000,1,3500000,1,Current Season,5200000,5.2
+Charlton,2007,19,TRUE,Relegated,charlton,0,0,0,0,No Data,0,0
+Chelsea,2007,2,FALSE,Survived,chelsea,0,0,0,0,No Data,0,0
+Crystal Palace,2014,11,FALSE,Survived,crystalpalace,10950000,3,14950000,2,Current Season,-4000000,-4
+Derby,2008,20,TRUE,Relegated,derby,0,0,0,0,No Data,0,0
+Everton,2007,6,FALSE,Survived,everton,375000,1,0,0,Promotion Summer (-1 year),375000,0.375
+Fulham,2008,17,FALSE,Survived,fulham,5900000,1,0,0,Current Season,5900000,5.9
+Hull,2009,17,FALSE,Survived,hull,0,0,0,0,No Data,0,0
+Hull,2014,16,FALSE,Survived,hull,0,0,0,0,No Data,0,0
+Leicester,2015,14,FALSE,Survived,leicester,10260000,2,0,0,Current Season,10260000,10.26
+Liverpool,2007,3,FALSE,Survived,liverpool,9800000,1,0,0,Promotion Summer (-1 year),9800000,9.8
+Man City,2007,14,FALSE,Survived,man,0,0,0,0,No Data,0,0
+Man United,2007,1,FALSE,Survived,man,0,0,0,0,No Data,0,0
+Middlesboro,2007,12,FALSE,Survived,middlesboro,0,0,0,0,No Data,0,0
+Middlesbrough,2007,12,FALSE,Survived,middlesbrough,0,0,0,0,No Data,0,0
+Newcastle,2007,13,FALSE,Survived,newcastle,7400000,1,0,0,Early Promotion (-2 years),7400000,7.4
+Newcastle,2011,12,FALSE,Survived,newcastle,0,0,15000000,1,No Data,-15000000,-15
+Norwich,2012,12,FALSE,Survived,norwich,600000,1,550000,1,Promotion Summer (-1 year),50000,0.05
+Norwich,2016,19,TRUE,Relegated,norwich,9300000,3,10000000,1,Current Season,-700000,-0.7
+Portsmouth,2007,9,FALSE,Survived,portsmouth,0,0,0,0,No Data,0,0
+QPR,2012,17,FALSE,Survived,qpr,0,0,0,0,No Data,0,0
+Reading,2007,8,FALSE,Survived,reading,0,0,0,0,No Data,0,0
+Reading,2013,19,TRUE,Relegated,reading,390000,1,900000,1,Promotion Summer (-1 year),-510000,-0.51
+Reading,2015,20,TRUE,Relegated,reading,1500000,1,6900000,2,Current Season,-5400000,-5.4
+Sheffield United,2007,18,TRUE,Relegated,sheffield,0,0,0,0,No Data,0,0
+Southampton,2013,14,FALSE,Survived,southampton,16000000,4,13800000,1,Current Season,2200000,2.2
+Stoke,2009,12,FALSE,Survived,stoke,150000,1,250000,1,Promotion Summer (-1 year),-100000,-0.1
+Sunderland,2008,15,FALSE,Survived,sunderland,0,0,0,0,No Data,0,0
+Swansea,2012,11,FALSE,Survived,swansea,0,0,0,0,No Data,0,0
+Tottenham,2007,5,FALSE,Survived,tottenham,0,0,0,0,No Data,0,0
+Watford,2007,20,TRUE,Relegated,watford,0,0,13200000,1,No Data,-13200000,-13.2
+Watford,2016,13,FALSE,Survived,watford,34400000,4,1900000,1,Current Season,32500000,32.5
+West Brom,2009,20,TRUE,Relegated,westbrom,4000000,1,0,0,Current Season,4000000,4
+West Brom,2011,11,FALSE,Survived,westbrom,300000,1,0,0,Current Season,300000,0.3
+West Ham,2007,15,FALSE,Survived,westham,0,0,0,0,No Data,0,0
+West Ham,2013,10,FALSE,Survived,westham,0,0,0,0,No Data,0,0
+Wigan,2008,14,FALSE,Survived,wigan,0,0,0,0,No Data,0,0
+Wolves,2010,15,FALSE,Survived,wolves,0,0,0,0,No Data,0,0

@@ -1,0 +1,10 @@
+team,season,position,relegated,survival_status,team_clean,total_spent,players_bought,total_received,players_sold,data_source,net_spend,net_spend_millions
+Aston Villa,2007,11,FALSE,Survived,astonvilla,13200000,1,0,0,Current Season,13200000,13.2
+Fulham,2008,17,FALSE,Survived,fulham,5900000,1,0,0,Current Season,5900000,5.9
+West Brom,2009,20,TRUE,Relegated,westbrom,4000000,1,0,0,Current Season,4000000,4
+Blackpool,2011,19,TRUE,Relegated,blackpool,1400000,1,0,0,Current Season,1400000,1.4
+Norwich,2012,12,FALSE,Survived,norwich,600000,1,550000,1,Promotion Summer (-1 year),50000,0.05
+Southampton,2013,14,FALSE,Survived,southampton,16000000,4,13800000,1,Current Season,2200000,2.2
+Cardiff,2014,20,TRUE,Relegated,cardiff,8700000,1,3500000,1,Current Season,5200000,5.2
+Leicester,2015,14,FALSE,Survived,leicester,10260000,2,0,0,Current Season,10260000,10.26
+Watford,2016,13,FALSE,Survived,watford,34400000,4,1900000,1,Current Season,32500000,32.5
